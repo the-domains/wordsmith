@@ -1,0 +1,28 @@
+name: Wordsmith
+favicon: null
+layout_spectrum: 0.16170462127774954
+typography_spectrum: 0.7055360786616802
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.30237693479284644
+  lightness: 0.37018945114687085
+  saturation: 0.3509783267509192
+  rhythmicContrast: 0.3306464066263288
+purpose: []
