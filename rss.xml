@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Wordsmith]]></title>
         <description><![CDATA[Wordsmith]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wordsmith/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 00:33:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 May 2016 19:27:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wordsmith/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/600a7d2c-d6c1-4456-8171-77a292b39990.jpg">]]></description>
+            <link>https://thegrid.ai/wordsmith/a5a8e056-be02-4c0b-8f50-b7fda8f32204/index.html</link>
+            <guid isPermaLink="false">a5a8e056-be02-4c0b-8f50-b7fda8f32204</guid>
+            <pubDate>Sat, 21 May 2016 19:25:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5095115-0940-4122-8cd6-d26d210c7be2.jpg">]]></description>
-            <link>undefineda3662f7b-9b6d-42a9-b873-c6f95ec4468c/index.html</link>
+            <link>https://thegrid.ai/wordsmith/a3662f7b-9b6d-42a9-b873-c6f95ec4468c/index.html</link>
             <guid isPermaLink="false">a3662f7b-9b6d-42a9-b873-c6f95ec4468c</guid>
             <pubDate>Wed, 17 Feb 2016 00:33:45 GMT</pubDate>
         </item>
